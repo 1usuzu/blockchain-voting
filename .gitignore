@@ -11,6 +11,8 @@ dist/
 build/
 */dist/
 */build/
+frontend/dist/
+frontend/build/
 
 # Vite
 .vite/
